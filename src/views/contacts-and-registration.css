@@ -1,0 +1,177 @@
+.contacts-and-registration-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.contacts-and-registration-thq-contact-panel-elm {
+  margin-top: 80px;
+}
+ 
+.contacts-and-registration-thq-btn-elm1 {
+  text-decoration: none;
+}
+ 
+.contacts-and-registration-thq-cta-arrow-elm {
+  transition: transform var(--animation-duration-fast);
+  flex-shrink: 0;
+}
+ 
+.contacts-and-registration-thq-form-success-elm {
+  display: none;
+}
+ 
+.contacts-and-registration-thq-map-controls-elm {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.contacts-and-registration-text34 {
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.contacts-and-registration-text38 {
+  color: var(--color-on-surface);
+  font-style: normal;
+  font-weight: 700;
+}
+ 
+.contacts-and-registration-text39 {
+  font-weight: 700;
+}
+ 
+.contacts-and-registration-thq-social-badge-elm1 {
+  text-decoration: none;
+}
+ 
+.contacts-and-registration-thq-social-badge-elm2 {
+  text-decoration: none;
+}
+ 
+.contacts-and-registration-thq-social-badge-elm3 {
+  text-decoration: none;
+}
+ 
+.contacts-and-registration-thq-step-number-elm1 {
+  color: var(--color-on-primary);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  align-items: center;
+  flex-shrink: 0;
+  font-weight: var(--font-weight-heading);
+  border-radius: 50%;
+  justify-content: center;
+}
+ 
+.contacts-and-registration-thq-step-title-elm1 {
+  flex: 1;
+}
+ 
+.contacts-and-registration-thq-accordion-icon-elm1 {
+  transition: transform var(--animation-duration-fast);
+  flex-shrink: 0;
+}
+ 
+.contacts-and-registration-thq-form-group-elm20 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.contacts-and-registration-thq-step-number-elm2 {
+  color: var(--color-on-primary);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  align-items: center;
+  flex-shrink: 0;
+  font-weight: var(--font-weight-heading);
+  border-radius: 50%;
+  justify-content: center;
+}
+ 
+.contacts-and-registration-thq-step-title-elm2 {
+  flex: 1;
+}
+ 
+.contacts-and-registration-thq-accordion-icon-elm2 {
+  transition: transform var(--animation-duration-fast);
+  flex-shrink: 0;
+}
+ 
+.contacts-and-registration-thq-step-number-elm3 {
+  color: var(--color-on-primary);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  align-items: center;
+  flex-shrink: 0;
+  font-weight: var(--font-weight-heading);
+  border-radius: 50%;
+  justify-content: center;
+}
+ 
+.contacts-and-registration-thq-step-title-elm3 {
+  flex: 1;
+}
+ 
+.contacts-and-registration-thq-accordion-icon-elm3 {
+  transition: transform var(--animation-duration-fast);
+  flex-shrink: 0;
+}
+ 
+.contacts-and-registration-thq-step-number-elm4 {
+  color: var(--color-on-primary);
+  width: 32px;
+  height: 32px;
+  display: flex;
+  font-size: var(--font-size-sm);
+  background: var(--color-primary);
+  align-items: center;
+  flex-shrink: 0;
+  font-weight: var(--font-weight-heading);
+  border-radius: 50%;
+  justify-content: center;
+}
+ 
+.contacts-and-registration-thq-step-title-elm4 {
+  flex: 1;
+}
+ 
+.contacts-and-registration-thq-accordion-icon-elm4 {
+  transition: transform var(--animation-duration-fast);
+  flex-shrink: 0;
+}
+ 
+.contacts-and-registration-container2 {
+  display: none;
+}
+ 
+.contacts-and-registration-container3 {
+  display: contents;
+}
+ 
+.contacts-and-registration-container4 {
+  display: none;
+}
+ 
+.contacts-and-registration-container5 {
+  display: contents;
+}
+ 
+@media(max-width: 1024px) {
+  .contacts-and-registration-thq-contact-panel-elm {
+    margin-top: 120px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .contacts-and-registration-thq-step-title-elm1 {
+    flex: 1;
+  }
+}

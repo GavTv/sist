@@ -1,0 +1,119 @@
+.disciplines-classes-container10 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.disciplines-classes-container11 {
+  display: none;
+}
+ 
+.disciplines-classes-container12 {
+  display: contents;
+}
+ 
+.disciplines-classes-thq-hero-visual-stack-elm {
+  background: url('https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/7bc2cd49-3948-4b70-af56-81707acc5f5f/02ca3e6d-0d7e-4ff9-b7f9-ec73687d1f6d?org_if_sml=1&force_format=original') center center / cover no-repeat;
+}
+ 
+.disciplines-classes-thq-btn-elm {
+  text-decoration: none;
+}
+ 
+.disciplines-classes-container13 {
+  display: none;
+}
+ 
+.disciplines-classes-container14 {
+  display: contents;
+}
+ 
+.disciplines-classes-container15 {
+  display: none;
+}
+ 
+.disciplines-classes-container16 {
+  display: contents;
+}
+ 
+.disciplines-classes-thq-updates-section-elm {
+  height: 1444px;
+}
+ 
+.disciplines-classes-thq-updates-container-elm {
+  height: 913px;
+}
+ 
+.disciplines-classes-thq-updates-split-elm {
+  height: 641px;
+}
+ 
+.disciplines-classes-container17 {
+  display: none;
+}
+ 
+.disciplines-classes-container18 {
+  display: contents;
+}
+ 
+.disciplines-classes-container19 {
+  display: none;
+}
+ 
+.disciplines-classes-container20 {
+  display: contents;
+}
+ 
+.disciplines-classes-container21 {
+  display: none;
+}
+ 
+.disciplines-classes-container22 {
+  display: contents;
+}
+ 
+.disciplines-classes-thq-price-card-elm2 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+@media(max-width: 991px) {
+  .disciplines-classes-thq-hero-visual-stack-elm {
+    height: 763px;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .disciplines-classes-thq-hero-visual-stack-elm {
+    height: 724px;
+  }
+  .disciplines-classes-thq-updates-section-elm {
+    height: 2339px;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .disciplines-classes-thq-hero-section-elm {
+    min-height: auto;
+  }
+  .disciplines-classes-thq-hero-container-elm {
+    height: 603px;
+    padding-bottom: 0px;
+  }
+  .disciplines-classes-thq-hero-visual-stack-elm {
+    height: 300px;
+    display: none;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .disciplines-classes-thq-hero-content-card-elm {
+    height: 316px;
+    padding-bottom: 117px;
+  }
+  .disciplines-classes-thq-pricing-header-section-elm {
+    width: 401px;
+  }
+  .disciplines-classes-thq-updates-section-elm {
+    height: 1902px;
+  }
+}
