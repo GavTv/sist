@@ -1025,11 +1025,9 @@
                           // Check for saved theme preference or default to system preference
                           const savedTheme = localStorage.getItem("theme");
                           const systemPrefersDark = window.matchMedia(
-                            "(prefers-color-scheme: dark)"
+                            "(prefers-color-scheme: light)"
                           ).matches;
-                          const initialTheme =
-                            savedTheme ||
-                            (systemPrefersDark ? "dark" : "light");
+                          const initialTheme = savedTheme || "light";
 
                           this.setTheme(initialTheme);
                           this.bindEvents();
@@ -3739,10 +3737,9 @@
                     init() {
                       const savedTheme = localStorage.getItem("theme");
                       const systemPrefersDark = window.matchMedia(
-                        "(prefers-color-scheme: dark)"
+                        "(prefers-color-scheme: ligth)"
                       ).matches;
-                      const initialTheme =
-                        savedTheme || (systemPrefersDark ? "dark" : "light");
+                      const initialTheme = savedTheme || "ligth";
                       this.setTheme(initialTheme);
                       this.bindEvents();
                     },
