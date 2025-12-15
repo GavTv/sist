@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: www.mikealina.ru/sitemap.xml
+Sitemap: www.zvschool.ru/sitemap.xml
